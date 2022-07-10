@@ -1,3 +1,6 @@
+//REFERENCIAS: https://stackoverflow.com/questions/19253786/how-to-copy-text-to-clip-board-in-android
+
+
 package com.chama.salud2
 
 import android.content.ClipData
