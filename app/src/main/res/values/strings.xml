@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FdM</string>
+    <string name="edit_message">Ingresa tu apellido</string>
+    <string name="button_send">Generar</string>
+    <string name="from">¿Quien lo envía?</string>
+    <string name="to">¿A quien?</string>
+    <string name="main_title">Formateador de Mensajes</string>
+    <string name="general_data">Datos Generales</string>
+    <string name="message_data">Cuerpo del Mensaje</string>
+    <string name="main_instructions">Completa los campos necesarios</string>
+    <string name="messsage_data_instructions">Escribe el asunto del mensaje en el cuadro verde</string>
+    <string name="instructions_result">Copiar Mensaje</string>
+</resources>
