@@ -1,4 +1,4 @@
-# formateador-de-mensajes
+# Acerca de "formateador-de-mensajes"
 Lab#1 Programación de Plataformas Moviles
 
 
