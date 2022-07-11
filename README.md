@@ -2,7 +2,7 @@
 La necesidad de esta App radica en que siempre olvido el formato de mensajes por email (formales). Además es el Lab#1 Programación de Plataformas Moviles.
 
 # Requisitos solicitados:
-| Cumplido | Caracterisitca | Utilizado |
+| Cumplido | Caracterisitca | Utilizado, descripción o justificación |
 | ------ | ------ |------|
 | [SI] | Tipo | Empty Activity |
 | [SI] | Lenguaje de programación | Kotlin |
